@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Test",
+			"Path": "C:\\Users\\1king\\OneDrive\\Desktop\\RandomProjects\\UE4\\Test\\Source\\Test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestEditor",
+			"Path": "C:\\Users\\1king\\OneDrive\\Desktop\\RandomProjects\\UE4\\Test\\Source\\TestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
